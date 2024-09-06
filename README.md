@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saket M Kharche</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+### Now Playing on Spotify 🎧:
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=6hdmk3zo4keljfam1exqcxykv&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/6hdmk3zo4keljfam1exqcxykv)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketkharche&label=Profile%20views&color=0e75b6&style=flat" alt="saketkharche" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketkharche" alt="saketkharche" /></a> </p>
@@ -40,6 +44,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saketkharche&" alt="saketkharche" /></p>
 
-### Now Playing 🎧:
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6hdmk3zo4keljfam1exqcxykv&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6hdmk3zo4keljfam1exqcxykv&redirect=true)
