@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **JavaScript and It's FrameWorks**
 
-- 👨‍💻 All of my projects are available at [https://saketkharche.github.io/Portfolio/](https://saketkharche.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://saketkharche.github.io/Portfolio/]()
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **Saketkharche1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1byid--aN1bwq0GsKGGfQGRpasDzsgGnz/view?usp=drive_link](https://drive.google.com/file/d/1byid--aN1bwq0GsKGGfQGRpasDzsgGnz/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1byid--aN1bwq0GsKGGfQGRpasDzsgGnz/view?usp=drive_link]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
