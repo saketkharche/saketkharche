@@ -32,7 +32,7 @@
 
 I'm Saket M. Kharche, a developer who believes code is poetry, data structures are puzzles waiting to be solved, cars are rolling art, and anime fuels creativity. When I'm not architecting scalable web apps, you'll catch me tackling a new LeetCode challenge, wrenching on a classic ride, or binge-watching the latest anime arcs.
 
-```glsl
+
 // DevProfile with personality points
 struct Developer {
     string name = "Saket M Kharche";
@@ -44,7 +44,7 @@ struct Developer {
     bool openToCollaborate = true;
     string philosophy = "First solve the problem, then write the code.";
 };
-```
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="Animated code flow GIF"/>
